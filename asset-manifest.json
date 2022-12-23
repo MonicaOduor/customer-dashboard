@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20//MonicaOduor.github.io/customer-dashboard/static/css/main.45de1ab5.css",
+    "main.js": "/%20//MonicaOduor.github.io/customer-dashboard/static/js/main.42ec0745.js",
+    "index.html": "/%20//MonicaOduor.github.io/customer-dashboard/index.html",
+    "main.45de1ab5.css.map": "/%20//MonicaOduor.github.io/customer-dashboard/static/css/main.45de1ab5.css.map",
+    "main.42ec0745.js.map": "/%20//MonicaOduor.github.io/customer-dashboard/static/js/main.42ec0745.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45de1ab5.css",
+    "static/js/main.42ec0745.js"
+  ]
+}
