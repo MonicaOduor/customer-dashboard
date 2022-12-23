@@ -1,0 +1,57 @@
+.top{
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+}
+
+
+.new-header {
+    color: lightgray;
+}
+
+.profile-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.upload-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.formInput {
+    width: 90%;
+}
+
+.formInput input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+
+.formInput input:focus {
+    border-bottom: 1px solid #ff6b81;
+}
+
+.formInput label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.img-upload-icon {
+    cursor: pointer;
+}
+
+.add-client-btn {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+}
